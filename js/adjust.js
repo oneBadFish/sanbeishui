@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 (function (doc, win) {
 //	alert(123)
           var docEl = doc.documentElement,
@@ -52,5 +51,4 @@ window.onresize = function() {
 document.documentElement.style.fontSize = document.documentElement.clientWidth / 320 * 20 + 'px';
 				};
 			};
->>>>>>> 9e805362532ae5a547275a6396e851ef102d5115
 			*/
