@@ -76,6 +76,7 @@ body{
     box-sizing: border-box;
     margin-bottom: 0.15rem;
     border-radius: 0.08rem;
+    overflow: hidden;
 }
 .box .boxs .shoplist .list>ul>li:nth-of-type(5){
     margin-bottom: 0.65rem;
