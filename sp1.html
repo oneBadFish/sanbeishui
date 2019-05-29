@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>三杯水龙头净水器</title>
+    <title>三杯水水龙头净水器</title>
     <link rel="stylesheet" href="./css/sp.css">
     <link rel="stylesheet" href="./css/swiper.min.css">
     <link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,61 @@
     </div>
 </body>
 </html>
-<script src="./js/sp.js"></script>
-<script type="text/html" class="tep">
-    
+<script type="text/html" id="tep">
+    <div class="header swiper-container">
+        <div class="head_tit">
+            <a href="index.html"> < </a>
+            <span>商品详情</span>
+        </div>
+        <div class="head_show swiper-wrapper">
+            <div class="swiper-slide">
+                <img src=<%= data[0].sp1_pic1 %> />
+            </div>
+            <div class="swiper-slide">
+                <img src=<%= data[0].sp1_pic2 %> />
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="head_txt">
+            <div class="tit">
+                <span>
+                    <%= data[0].title %>
+                </span>
+            </div>
+            <div class="price">
+                <span>
+                    <%= data[0].pt %>
+                </span>
+                <span>
+                    <%= data[0].sc %>
+                </span>
+                <span>
+                    <%= data[0].xl %>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="datalist">
+        <div class="tit">
+            <span class="iconfont">&#xe69d;</span>
+            <span>
+                图文详情
+            </span>
+        </div>
+        <div class="piclist">
+            <ul class="olist">
+                <% for(var i=0;i<data[0].sp1_img.length;i++) { %>
+                    <li>
+                            <img src=<%= data[0].sp1_img[i] %> />
+                    </li>
+                <% } %>
+            </ul>
+        </div>
+    </div>
+    <div class="footer">
+        <a href="buy.html">
+            <span>立即购买</span>
+        </a>
+    </div>
 </script>
+<script src="./js/sp.js"></script>

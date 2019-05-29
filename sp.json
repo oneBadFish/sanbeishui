@@ -2,17 +2,52 @@
     {
         "sp1_pic1":"./imgs/sp_1_02.png",
         "sp1_pic2":"./imgs/sp_1_01.jpg",
-        "sp1_img1":"./imgs/sp_1_1.png",
-        "sp1_img2":"./imgs/sp_1_2.png",
-        "sp1_img3":"./imgs/sp_1_3.png",
-        "sp1_img4":"./imgs/sp_1_4.png",
-        "sp1_img5":"./imgs/sp_1_5.png",
-        "sp1_img6":"./imgs/sp_1_6.png",
-        "sp1_img7":"./imgs/sp_1_7.png",
-        "sp1_img8":"./imgs/sp_1_8.png",
-        "sp1_img9":"./imgs/sp_1_9.png",
-        "sp1_img10":"./imgs/sp_1_10.png",
-        "sp1_img11":"./imgs/sp_1_11.png",
-        
+        "sp1_img":["./imgs/sp_1_1.png","./imgs/sp_1_2.png","./imgs/sp_1_3.png","./imgs/sp_1_4.png",
+            "./imgs/sp_1_5.png","./imgs/sp_1_6.png","./imgs/sp_1_7.png","./imgs/sp_1_8.png",
+            "./imgs/sp_1_9.png","./imgs/sp_1_10.png","./imgs/sp_1_11.png"],
+        "title":"三杯水水龙头净水器  (199元/2台)",
+        "pt":"平台价格：99.50元",
+        "sc":"市场价格：398.00元",
+        "xl":"销量：65849"
+    },
+    {
+        "sp2_pic1":"./imgs/sp_2_01.jpg",
+        "sp2_pic2":"./imgs/sp_2_02.jpg",
+        "sp2_pic3":"./imgs/sp_2_03.jpg",
+        "sp2_img":["./imgs/sp_2_1.jpg","./imgs/sp_2_2.jpg","./imgs/sp_2_3.jpg","./imgs/sp_2_4.jpg",
+            "./imgs/sp_2_5.jpg","./imgs/sp_2_6.jpg","./imgs/sp_2_7.jpg","./imgs/sp_2_8.jpg",
+            "./imgs/sp_2_9.jpg","./imgs/sp_2_10.jpg","./imgs/sp_2_11.jpg","./imgs/sp_2_12.jpg",
+            "./imgs/sp_2_13.jpg","./imgs/sp_2_14.jpg","./imgs/sp_2_15.jpg","./imgs/sp_2_16.jpg",
+            "./imgs/sp_2_17.jpg","./imgs/sp_2_18.jpg","./imgs/sp_2_19.jpg","./imgs/sp_2_20.jpg"],
+        "title":"唯美设计、专利技术、高端工艺、智能技术、美容抗衰",
+        "pt":"平台价格：199.00元",
+        "sc":"市场价格：4380.00元",
+        "xl":"销量：109"
+    },{
+        "sp3_pic1":"./imgs/sp_3_01.jpg",
+        "sp3_pic2":"./imgs/sp_3_02.jpg",
+        "sp3_pic3":"./imgs/sp_3_03.jpg",
+        "sp3_img":["./imgs/sp_3_1.jpg","./imgs/sp_3_2.jpg","./imgs/sp_3_3.jpg","./imgs/sp_3_4.jpg",
+            "./imgs/sp_3_5.jpg","./imgs/sp_3_6.jpg","./imgs/sp_3_7.jpg","./imgs/sp_3_8.jpg",
+            "./imgs/sp_3_9.jpg"],
+        "title":"三杯水沐浴美肤宝/沐浴专用 (199元/台)",
+        "pt":"平台价格：199.00元",
+        "sc":"市场价格：598.00元",
+        "xl":"销量：51548"
+    },{
+        "sp4_pic1":"./imgs/sp_4_01.jpg",
+        "sp4_pic2":"./imgs/sp_4_02.jpg",
+        "sp4_img":["./imgs/sp_4_1.jpg"],
+        "title":"三杯水龙头式净水器滤芯 (9支装/199元)",
+        "pt":"平台价格：199.00元",
+        "sc":"市场价格：398.00元",
+        "xl":"销量：34125"
+    },{
+        "sp5_pic1":"./imgs/sp_5_01.jpg",
+        "sp5_img":["./imgs/sp_5_1.jpg","./imgs/sp_5_2.jpg"],
+        "title":"沐浴宝滤芯 (3个装/199元)",
+        "pt":"平台价格：199.00元",
+        "sc":"市场价格：468.00元",
+        "xl":"销量：2548"
     }
 ]
