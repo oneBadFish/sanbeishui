@@ -1,5 +1,18 @@
 [
     {
-        "sp1_pic1":"./imgs/"
+        "sp1_pic1":"./imgs/sp_1_02.png",
+        "sp1_pic2":"./imgs/sp_1_01.jpg",
+        "sp1_img1":"./imgs/sp_1_1.png",
+        "sp1_img2":"./imgs/sp_1_2.png",
+        "sp1_img3":"./imgs/sp_1_3.png",
+        "sp1_img4":"./imgs/sp_1_4.png",
+        "sp1_img5":"./imgs/sp_1_5.png",
+        "sp1_img6":"./imgs/sp_1_6.png",
+        "sp1_img7":"./imgs/sp_1_7.png",
+        "sp1_img8":"./imgs/sp_1_8.png",
+        "sp1_img9":"./imgs/sp_1_9.png",
+        "sp1_img10":"./imgs/sp_1_10.png",
+        "sp1_img11":"./imgs/sp_1_11.png",
+        
     }
 ]
